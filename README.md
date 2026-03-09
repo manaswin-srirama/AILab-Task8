@@ -21,8 +21,6 @@ A simple Word Puzzle GUI game built using Python and Tkinter.
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/word-puzzle-game.git
-
 2. Navigate into the folder
 
 cd word-puzzle-game
